@@ -8,6 +8,7 @@ Key Highlights -
 3) At the end no matter you lose or you win, the programme displays the word that was to be guessed and it also displays it's meaning. Thus one can also add on to their vocabulary while playing this game.
 4) The word to be guessed is displayed initially in the form of dashes ( _ _ _ _ ) , and after guessing correct letter, the dash at the position of that letter in the word is replaced by the letter. Wrong letters are stored in a list which is displayed before every attempt.
 5) Number of lives remaining are also displated.
+6) I have tried my best to avoid unwanted errors because there's a good chance of error popping up as this programme deals with user inputs at every point. I've used while loop and if-else conditional statements for the same. I have tried to include as many cases as possible. 
 
 Stuff that I've used - 
 
